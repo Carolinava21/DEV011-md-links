@@ -17,10 +17,15 @@ Esta librería contiene 3 archivos principales para su funcionamiento.
 
 *index.js* : en este archivo se desarrolla la función MD-links, que devuelve una promesa, unificando todas las funciones necesarias para analizar los archivos Markdown.  
 
-*CLI.js*: esta es la interfaz de línea de comando, que permite interactuar con los argumentos proporcionados por la usuaria, y que se ejecutan desde la terminal.
+*CLI.js*: esta es la interfaz de línea de comando, que permite interactuar con los argumentos proporcionados por la usuaria,  que se ejecutan desde la terminal.
 
 
 ## 2. Instalación MD-links. 
+Puedes instalarlo directamente desde GitHub con el siguiente comando
+
+```bash
+                   npm install Carolinava21 / md-links
+```
 
 
 
