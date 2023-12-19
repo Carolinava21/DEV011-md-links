@@ -1,21 +1,21 @@
-# Markdown Links
+# Markdown Links -
 
 ## Índice
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
+* [1. Descripción](#1-descripción)
+* [2. Instalación](#2-instalación)
+* [3. Instrucciones de uso](#3-instrucciones de uso)
 
 
 ***
 
-## 1. Preámbulo
+## 1. Descripción MD-links.
 
 
 
-## 2. Resumen del proyecto
+## 2. Instalación MD-links. 
 
 
 
-## 3. Objetivos de aprendizaje
+## 3. Instrucciones de uso.
 
