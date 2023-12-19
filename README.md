@@ -51,7 +51,7 @@ Puedes instalarlo directamente desde GitHub con el siguiente comando
 
 ```bash
                          md-links archivo.md --validate --stats
-
+```
 
 ## 3. Instrucciones de uso.
 
