@@ -26,7 +26,7 @@ Puedes instalarlo directamente desde GitHub con el siguiente comando
 ```bash
                    npm install Carolinava21/md-links
 ```
-
+## 3. Instrucciones de uso.
 
 * Para poder leer un archivo markdown y extraer sus enlaces , se debe ejecutar el comando md-links junto con el nombre del archivo Markdown que quieras verificar 
 ```bash
@@ -53,5 +53,5 @@ Puedes instalarlo directamente desde GitHub con el siguiente comando
                          md-links archivo.md --validate --stats
 ```
 
-## 3. Instrucciones de uso.
+
 
