@@ -24,10 +24,34 @@ Esta librería contiene 3 archivos principales para su funcionamiento.
 Puedes instalarlo directamente desde GitHub con el siguiente comando
 
 ```bash
-                   npm install Carolinava21 / md-links
+                   npm install Carolinava21/md-links
 ```
 
 
+* Para poder leer un archivo markdown y extraer sus enlaces , se debe ejecutar el comando md-links junto con el nombre del archivo Markdown que quieras verificar 
+```bash
+                           md-links /archivo.md
+```
+
+* Para verificar el estado de cada uno de los links extraídos 
+```bash
+                        md-links README3.md --validate
+```
+
+Este comando muestra el estado de los enlaces encontrados en el archivo Markdown en la ruta especificada. 
+
+* Para obtener un estadistica del archivo analizado. 
+
+```bash
+                         md-links README3.md --stats
+```
+
+Este comando muestra incluyendo la cantidad total de enlaces encontrados y la cantidad de enlaces únicos presentes en el documento
+
+*  Para mostrar la estadísticas básicas y los enlaces rotos en un archivo Markdown
+
+```bash
+                         md-links README3.md --validate --stats
 
 
 ## 3. Instrucciones de uso.
