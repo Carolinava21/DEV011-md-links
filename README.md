@@ -10,6 +10,7 @@
 ***
 
 ## 1. Descripción MD-links.
+MD-links es una librería en Node.js que funciona como una herramienta para analizar links dentro de carpetas Markdown. Se encuentra disponible como módulo descargable de Github, el cual es posible  instalar e importar dentro de otros  repositorios
 
 
 
